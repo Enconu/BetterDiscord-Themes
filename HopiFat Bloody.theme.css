@@ -1,0 +1,26 @@
+/**
+ * @name HopiFat Theme Bloody
+ * @author Łineru#0228
+ * @version 1.0.0
+ * @description Just a remake SImplyDark Theme (Include BetterBages)
+ * @website https://hopifat.ml/
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500&display=swap');
+@import url("https://discordstyles.github.io/SimplyDark/dist/SimplyDark.css");
+@import url('https://monstrousdev.github.io/themes/addons/user-tags.css');
+@import url("https://hopifat.ml/simplyblood.css");
+@import url('https://mr-miner1.github.io/Better-Badges/src/badges.css');
+:root {
+    --activetext-colour: white;
+	--hue: 0; 
+	--saturation: 100%; 
+	--lightness: 2%; 
+
+	--accent: 238, 130, 238; 
+
+	--avatar-shape: 10%; 
+	--server-shape: 10%; 
+
+	--font: 'comic sans ms';
+}
