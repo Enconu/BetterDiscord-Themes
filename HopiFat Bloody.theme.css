@@ -1,7 +1,8 @@
 /**
  * @name HopiFat Theme Bloody
  * @author Łineru#0228
- * @version 1.0.0
+ * @version 1.1.0
+ * @sourse https://github.com/Enconu/BetterDiscord-Themes
  * @description Just a remake SImplyDark Theme (Include BetterBages)
  * @website https://hopifat.ml/
 */
@@ -23,4 +24,8 @@
 	--server-shape: 10%; 
 
 	--font: 'comic sans ms';
+	--badge-size: 22px; 
+    --badge-margin: 1.5px; 
+    --badges-everywhere-size: 15px;
+
 }
