@@ -1,10 +1,10 @@
-# BetterDiscord-Themes
+# HopiFat Bloody Theme (SimplyDark Theme remake)
 Just drop this file to your Themes folder and activate in settings
 
 
-Credits :
+# Credits :
 
 
-mr_miner#6969 - BetterBages theme include
+# mr_miner#6969 - BetterBages theme include
 
-Gibbu#1211 - SimplyDark Theme
+# Gibbu#1211 - SimplyDark Theme
