@@ -1,5 +1,6 @@
 # HopiFat Bloody Theme (SimplyDark Theme remake)
-Just drop this file to your Themes folder and activate in settings
+
+**Just drop this file to your Themes folder and activate in settings
 
 
 # Credits :
